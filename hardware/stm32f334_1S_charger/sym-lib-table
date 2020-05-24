@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name stm32f334_1S_charger)(type Legacy)(uri ${KIPRJMOD}/stm32f334_1S_charger.lib)(options "")(descr ""))
+)
