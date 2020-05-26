@@ -1,0 +1,4 @@
+hrtim.c:30:6:MX_HRTIM1_Init	184	static
+hrtim.c:134:6:HAL_HRTIM_MspInit	24	static
+hrtim.c:150:6:HAL_HRTIM_MspPostInit	40	static
+hrtim.c:178:6:HAL_HRTIM_MspDeInit	16	static
